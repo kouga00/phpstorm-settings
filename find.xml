@@ -1,0 +1,34 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*FactoryTest.php</mask>
+    <mask>*Controller.php</mask>
+    <mask>*test.php</mask>
+    <mask>*config*</mask>
+    <mask>*entity*.php</mask>
+    <mask>*partial*</mask>
+    <mask>.phtml</mask>
+    <mask>*.jsx</mask>
+    <mask>*preventivo*</mask>
+    <mask>*preventivo.js</mask>
+    <mask>*config.php</mask>
+    <mask>*factory.php</mask>
+    <mask>*test*.php</mask>
+    <mask>*config*.php</mask>
+    <mask>*Repository*.php</mask>
+    <mask>*Controller*.php</mask>
+    <mask>*.php</mask>
+    <mask>*.phtml</mask>
+  </component>
+</application>
