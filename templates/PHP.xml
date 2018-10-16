@@ -12,4 +12,9 @@
       <option name="PHP Statement" value="true" />
     </context>
   </template>
+  <template name="containerMock" value="$containerMock = $this-&gt;prophesize(ContainerInterface::class);" description="Mock container" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
 </templateSet>
