@@ -1,5 +1,5 @@
 <keymap version="1" name="Ema" parent="Mac OS X 10.5+">
-  <action id="ActivateTimeTrackingToolWindow">
+  <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
   <action id="CommentByLineComment">
