@@ -32,5 +32,6 @@
     <mask>*.phtml</mask>
     <mask>*config.php</mask>
     <mask>*verify*</mask>
+    <mask>*promotion**</mask>
   </component>
 </application>
