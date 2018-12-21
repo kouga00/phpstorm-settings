@@ -9,12 +9,13 @@
     <interpreters>
       <interpreter home="/usr/local/Cellar/php/7.2.5/bin/php" id="bf5b11c9-407d-4c8a-9521-01551bef0ec0" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
       <interpreter home="/usr/local/Cellar/php/7.2.5/bin/php" id="722f3b25-5868-40b6-9dd0-dce4620dee27" name="PHP 7.2" debugger_id="php.debugger.XDebug" />
+      <interpreter home="/usr/local/Cellar/php@7.2/7.2.13/bin/php" id="36fc75fb-7cb1-43c0-be82-0366a938aad1" name="PHP" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 7.2">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/7.2.5/bin/php-cgi" php_cli="/usr/local/Cellar/php/7.2.5/bin/php" path_separator=":" version="7.2.5">
+      <interpreter name="PHP">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.2/7.2.13/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.2/7.2.13/bin/php" path_separator=":" version="7.2.13">
           <additional_php_ini>/usr/local/etc/php/7.2/conf.d/ext-opcache.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/7.2/php.ini</configuration_file>
           <configuration_options>
@@ -87,7 +88,7 @@
             <configuration_option name="ignore_repeated_source" value="" />
             <configuration_option name="ignore_user_abort" value="0" />
             <configuration_option name="implicit_flush" value="1" />
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/7.2.5/share/php/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.2/7.2.13/share/php@7.2/pear" />
             <configuration_option name="input_encoding" value="" />
             <configuration_option name="internal_encoding" value="" />
             <configuration_option name="intl.default_locale" value="" />
@@ -252,6 +253,8 @@
             <configuration_option name="soap.wsdl_cache_ttl" value="86400" />
             <configuration_option name="sqlite3.extension_dir" value="" />
             <configuration_option name="sys_temp_dir" value="" />
+            <configuration_option name="tidy.clean_output" value="" />
+            <configuration_option name="tidy.default_config" value="" />
             <configuration_option name="track_errors" value="0" />
             <configuration_option name="unserialize_callback_func" value="" />
             <configuration_option name="upload_max_filesize" value="2M" />
@@ -401,6 +404,7 @@
             <extension name="sysvmsg" />
             <extension name="sysvsem" />
             <extension name="sysvshm" />
+            <extension name="tidy" />
             <extension name="tokenizer" />
             <extension name="wddx" />
             <extension name="xdebug" />
