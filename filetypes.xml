@@ -2,9 +2,11 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".gitignore.global" type="Git file" />
+      <mapping pattern="doctrine" type="PHP" />
+      <mapping pattern="phpLbIbPD" type="PLAIN_TEXT" />
       <mapping pattern="renewals" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
-      <mapping pattern="phpLbIbPD" type="PLAIN_TEXT" />
+      <mapping pattern="doctrine-api" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="ogg" type="PLAIN_TEXT" />
