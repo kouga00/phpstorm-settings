@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.mxml</mask>
+    <option name="FILE_MASK" value="*Factory.php" />
     <mask>*FactoryTest.php</mask>
     <mask>*Controller.php</mask>
     <mask>*config*</mask>
@@ -33,5 +33,6 @@
     <mask>*payment*</mask>
     <mask>*factory*</mask>
     <mask>*test.php</mask>
+    <mask>*Factory.php</mask>
   </component>
 </application>
