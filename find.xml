@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*config*</mask>
     <mask>*entity*.php</mask>
     <mask>*partial*</mask>
@@ -15,7 +16,6 @@
     <mask>*config*.php</mask>
     <mask>*Repository*.php</mask>
     <mask>*Controller*.php</mask>
-    <mask>*.php</mask>
     <mask>*config*php*</mask>
     <mask>*verify*</mask>
     <mask>*promotion**</mask>
@@ -33,5 +33,6 @@
     <mask>*test.php</mask>
     <mask>*payment*controller*.php*</mask>
     <mask>*config*.php*</mask>
+    <mask>*.php</mask>
   </component>
 </application>
