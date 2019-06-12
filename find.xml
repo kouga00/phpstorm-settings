@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*test*.php</mask>
     <mask>*Repository*.php</mask>
     <mask>*config*php*</mask>
     <mask>*verify*</mask>
@@ -33,5 +32,6 @@
     <mask>*php</mask>
     <mask>*redis*php</mask>
     <mask>*Controller*php</mask>
+    <mask>*config*php</mask>
   </component>
 </application>
