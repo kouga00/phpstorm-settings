@@ -30,8 +30,8 @@
     <mask>*redis*php</mask>
     <mask>*Controller*php</mask>
     <mask>*config*php</mask>
-    <mask>*.php</mask>
     <mask>*development*.php</mask>
     <mask>*.phtml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
