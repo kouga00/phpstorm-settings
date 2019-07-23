@@ -17,4 +17,10 @@
       <option name="PHP Statement" value="true" />
     </context>
   </template>
+  <template name="testdi" value="public function testDI(): void&#10;{&#10;    $this-&gt;assertInstanceOf(&#10;        $CLASS$::class,&#10;        $this-&gt;getApplicationServiceLocator()-&gt;get($CLASS$::class)&#10;    );&#10;}" description="Create a function for integration test DI of a ZF service" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS" expression="camelCase(String)" defaultValue="ServiceName" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
 </templateSet>
