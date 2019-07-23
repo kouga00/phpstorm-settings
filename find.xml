@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*config*php*</mask>
     <mask>*verify*</mask>
     <mask>*promotion**</mask>
     <mask>*package*</mask>
@@ -33,5 +32,6 @@
     <mask>*development*.php</mask>
     <mask>*.phtml</mask>
     <mask>*.php</mask>
+    <mask>*config*</mask>
   </component>
 </application>
