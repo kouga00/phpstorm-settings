@@ -3,7 +3,7 @@
     <property name="created">2018-03-19T09:59:48</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.6.0.0</property>
-    <property name="modified">2019-07-23T15:49:36</property>
+    <property name="modified">2019-07-26T11:58:56</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -28,4 +28,13 @@
     <option name="FILESTATUS_addedOutside" value="c3e88d" />
     <option name="FILESTATUS_modifiedOutside" value="82aaff" />
   </colors>
+  <attributes>
+    <option name="MT_DIRECTORIES">
+      <value>
+        <option name="FOREGROUND" value="adacaf" />
+        <option name="BACKGROUND" value="263238" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+  </attributes>
 </scheme>

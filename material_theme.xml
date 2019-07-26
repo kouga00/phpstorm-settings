@@ -1,8 +1,15 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactSidebar" value="true" />
+    <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="customSidebarHeight" value="22" />
+    <option name="treeFontSize" value="14" />
+    <option name="leftTreeIndent" value="0" />
+    <option name="settingsSelectedTab" value="3" />
     <option name="tabsHeight" value="50" />
-    <option name="accentColor" value="ff9800" />
+    <option name="accentColor" value="51b7c6" />
     <option name="highlightColor" value="80cbc4" />
     <option name="userId" value="-482ea533:16403108d23:-7fff" />
     <option name="version" value="3.5.0.1" />
