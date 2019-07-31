@@ -6,11 +6,13 @@
     <option name="pristineConfig" value="false" />
     <option name="customSidebarHeight" value="22" />
     <option name="treeFontSize" value="14" />
-    <option name="leftTreeIndent" value="0" />
-    <option name="settingsSelectedTab" value="2" />
+    <option name="leftTreeIndent" value="8" />
+    <option name="rightTreeIndent" value="8" />
+    <option name="settingsSelectedTab" value="3" />
     <option name="tabsHeight" value="50" />
     <option name="accentColor" value="51b7c6" />
     <option name="highlightColor" value="80cbc4" />
+    <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="-482ea533:16403108d23:-7fff" />
     <option name="version" value="3.10.0" />
   </component>
