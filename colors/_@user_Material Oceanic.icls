@@ -4,13 +4,12 @@
     <property name="created">2018-03-19T09:59:48</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.6.0.0</property>
-    <property name="modified">2019-08-22T12:52:21</property>
+    <property name="modified">2019-08-22T15:53:07</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_SIZE" value="15" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
-  <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="12" />
@@ -76,7 +75,7 @@
     <option name="ScrollBar.Mac.hoverThumbColor" value="9688" />
     <option name="ScrollBar.Mac.hoverTrackColor" value="263238" />
     <option name="ScrollBar.Mac.thumbBorderColor" value="9688c0" />
-    <option name="ScrollBar.Mac.thumbColor" value="" />
+    <option name="ScrollBar.Mac.thumbColor" value="9688c0" />
     <option name="ScrollBar.Mac.trackColor" value="263238" />
     <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="9688c0" />
     <option name="ScrollBar.Transparent.hoverThumbColor" value="9688c0" />
@@ -1043,6 +1042,11 @@
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
+    <option name="JUPYTER_SELECTED_CELL">
+      <value>
+        <option name="BACKGROUND" value="32424a" />
+      </value>
+    </option>
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value />
     </option>
@@ -2643,6 +2647,11 @@
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="32424a" />
+      </value>
+    </option>
+    <option name="SELECTED_CELL">
+      <value>
+        <option name="BACKGROUND" value="411f7e" />
       </value>
     </option>
     <option name="SLIM_CLASS">
