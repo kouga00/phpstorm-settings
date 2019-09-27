@@ -1,5 +1,8 @@
 <code_scheme name="Default" version="173">
   <option name="SOFT_MARGINS" value="120" />
+  <JSCodeStyleSettings version="0">
+    <option name="INDENT_CHAINED_CALLS" value="false" />
+  </JSCodeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
