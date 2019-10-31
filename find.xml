@@ -3,8 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*promotion**</mask>
-    <mask>*package*</mask>
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*Proxy*</mask>
     <mask>*Generate*</mask>
     <mask>*config.php*</mask>
@@ -33,5 +32,7 @@
     <mask>*.phtml</mask>
     <mask>*config*</mask>
     <mask>*.php*</mask>
+    <mask>*.ts*</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
