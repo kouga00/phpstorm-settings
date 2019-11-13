@@ -1,0 +1,9 @@
+<application>
+  <component name="DockerRegistry">
+    <DockerRegistry email="emanuele.menon@facile.it">
+      <option name="address" value="https://registry.facile.it:5001" />
+      <option name="name" value="Docker Registry" />
+      <option name="username" value="emenon" />
+    </DockerRegistry>
+  </component>
+</application>

@@ -1,0 +1,38 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
+    <mask>*Proxy*</mask>
+    <mask>*Generate*</mask>
+    <mask>*config.php*</mask>
+    <mask>*controller*.php</mask>
+    <mask>*config.php</mask>
+    <mask>*payment*</mask>
+    <mask>*factory*</mask>
+    <mask>*Factory.php</mask>
+    <mask>*test.php</mask>
+    <mask>*payment*controller*.php*</mask>
+    <mask>*config*.php*</mask>
+    <mask>*factory*.php</mask>
+    <mask>*Test.php</mask>
+    <mask>*config*.php</mask>
+    <mask>*Listener*.php</mask>
+    <mask>*Controller*.php</mask>
+    <mask>*Syn*.php</mask>
+    <mask>*listener*</mask>
+    <mask>*php</mask>
+    <mask>*redis*php</mask>
+    <mask>*Controller*php</mask>
+    <mask>*config*php</mask>
+    <mask>*development*.php</mask>
+    <mask>*.php</mask>
+    <mask>*ControllerTest*</mask>
+    <mask>*.phtml</mask>
+    <mask>*config*</mask>
+    <mask>*.php*</mask>
+    <mask>*.ts*</mask>
+    <mask>*.ts</mask>
+  </component>
+</application>
