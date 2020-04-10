@@ -5,8 +5,8 @@
       <mapping pattern=".prettierrx" type="PLAIN_TEXT" />
       <mapping pattern="renewals" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
-      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="dsdsd" type="PLAIN_TEXT" />
       <mapping pattern="doctrine-api" type="PLAIN_TEXT" />
