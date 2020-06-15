@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="PosteMapper" type="JSP" />
       <mapping pattern="doctrine" type="PHP" />
       <mapping pattern=".prettierrx" type="PLAIN_TEXT" />
       <mapping pattern="renewals" type="PLAIN_TEXT" />
