@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="PosteMapper" type="JSP" />
       <mapping pattern="updateCouponFile" type="JavaScript" />
+      <mapping pattern="clientStats" type="JavaScript" />
       <mapping pattern="doctrine" type="PHP" />
       <mapping pattern="phpLbIbPD" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
